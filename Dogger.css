@@ -1,0 +1,712 @@
+.logo{
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#main{ 
+background-color: rgb(247, 247, 248);
+/* margin-top: 30px; */
+}
+.menu1{
+    margin-left: 48%;
+     
+}
+ .home{
+    color: rgb(248, 0, 0);
+     
+     
+ }
+ .classing{
+     width: 100px;
+     border-radius: 50%;
+     height: 95px;
+     margin-top: 60px;
+     border: 2px solid red;
+ }
+.menu1 a{
+    color: black;
+    margin-left: 20px;
+}
+.menu1 a:hover{
+    color:rgb(248, 0, 0);
+     
+}
+.always img{
+    width: 370px;
+    /* height: 65vh; */
+}
+#care4{
+    margin-top: 80px;
+    text-align: center;
+}
+.always1{
+     margin-top: 130px;
+     font-variant: small-caps;
+}
+.always1  h1{
+    font-size: 60px
+    
+    
+}
+#welcome{
+    text-align: center;
+    margin-top: 120px;
+    
+}#welcome i{
+    color: darkgreen;
+    font-size: x-large;
+}
+#welcome h1{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+#welcome p{
+    opacity: 0.8;
+}
+.love1 h2{
+    text-align: center;
+}
+/* .far{
+    margin-left: 130px;
+} */
+.love1 p{
+    text-align: center;
+    font-size: small;
+}
+.love1 button{
+    margin-left: 0%;
+}
+ .successbtn{
+     border-radius: 10px;
+     
+ }
+ .love img{
+     width: 370px;
+     
+
+ }
+ .love{
+    margin-top: 60px;
+ }
+ 
+ .love1{
+     margin-top: 100px;
+ }
+ .some1 img{
+     width: 370px;
+     margin-left: 0px;
+ }
+ #fear{
+     margin-top: 10px;
+     text-align: center;
+ }
+ .some{
+     margin-top: 60px;
+     margin-left: 0px;
+ }
+ .some p{
+     font-size: small;
+     opacity: 0.9;
+ }
+ .wel{
+     margin-top: 0;
+ }
+ .love2 img{
+     width: 370px;
+     margin-left: 0px;
+     margin-top: 30px;
+ }
+ .live1 img{
+     width: 370px;
+     /* height: 70vh; */
+ }
+ #welcome1{
+     text-align: center;
+ }
+ #Aboutus{
+     margin-top: 140px;
+     text-align: center;
+ }
+ .live {
+     font-size: x-large;
+     /* color: darkgreen; */
+ }
+ .live i{
+    font-size: x-large;
+    color: darkgreen;
+}
+ .live p{
+     opacity: 0.8;
+     font-size: small;
+ }
+ .live h2{
+     font-variant: small-caps;
+     
+ }
+ .live{
+     margin-left: 0px;
+     margin-top: 70px;
+ }
+ #our{
+     margin-top: 130px;
+ }
+ #our i{
+     margin-left: 48%;
+     color: darkgreen;
+     font-size: x-large;
+
+ }
+ #our h1{
+     text-align: center;
+ }
+  .behind{
+     text-align: center;
+     opacity: 0.8;
+ }
+ .trainers{
+     margin-top: 50px;
+ }
+ #pricing{
+     margin-top: 90px;
+ }
+ #pricing {
+       text-align: center;
+      font-size: x-large;
+      color: green;
+ }
+ #pricing h2{
+     text-align: center;
+     font-variant: small-caps;
+ }
+ #pricing p{
+     text-align: center;
+     opacity: 0.8;
+ }
+ .officia1{
+     background-color: rgb(134, 168, 132);
+     padding-left: 40px;
+ }
+   .officia1 h5{
+       text-align: center;
+       color: white;
+    position: relative;
+    top: 30px;
+   }
+   .ol  {
+       margin-top: 50px;
+   }
+   .ol li{
+       margin-top: 30px;
+       color: white;
+   }
+   .officia1 button{
+       margin-left: 33%;
+       margin-top: 15px;
+       border-radius: 15px;
+   }
+   .officia2{
+    background-color: rgb(52, 54, 52);
+    padding-left: 40px;
+   }
+   .officia2 h5{
+    text-align: center;
+    color: white;
+ position: relative;
+ top: 30px;
+}
+.officia2 button{
+    margin-left: 33%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.faraway{
+    opacity: 0.8;
+    font-size: small;
+}
+.rubs{
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 5px;
+    color: rgb(129, 143, 129);
+}
+.quesntion img{
+    width: 400px;
+}
+#ask{
+    margin-top: 110px;
+}
+#ask h1{
+    text-align: center;
+    font-variant: small-caps;
+}
+ .paw1{
+     margin-left: 50%;
+     color: green;
+     font-size: x-large;
+ }
+ .quesntion{
+     margin-top: 30px;
+ }
+ #lorem{
+     text-align: center;
+     /* margin-top: 110px; */
+     font-size: small;
+     background-color: rgb(133, 161, 133); 
+     margin-top: 40px;
+ }
+ #lorem i{
+     color: green;
+     font-size: x-large;
+     margin-top: 40px;
+ }
+ #lorem h1{
+     font-variant: small-caps;
+ }
+ .loremimage img{
+     width: 100px;
+ }
+ .all1{
+     background-color: rgb(133, 161, 133);
+     padding-top: 30px;
+     padding-bottom: 30px;
+     font-size:large;
+ }
+ .all2{
+    background-color: rgb(133, 161, 133);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: large;
+}
+.all3{
+    background-color: rgb(133, 161, 133);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: large;
+}
+ .row2{
+     margin-top: 40px;
+ }
+ .imgclass{
+     width: 90px;
+     margin-top: 20px;
+     border-radius: 50%;
+     border: 5px solid rgb(91, 141, 106);
+ }
+ #photo{
+     text-align: center;
+     margin-top: 90px;
+ }
+ #photo i{
+     color: green;
+     font-size: x-large;
+ }
+
+ #photo h1{
+     font-variant: small-caps;
+ }
+ #blog{
+     
+     margin-top: 100px;
+
+ }
+ .blog1{
+     text-align: center;
+ }
+ #blog i{
+     font-size: x-large;
+     color: green;
+     margin-left: 48%;
+ }
+ #blog h1{
+     font-variant: small-caps;
+ }
+ .massage{
+     margin-top: 40px;
+ }
+ .massage img{
+     width: 160px;
+ }
+ .massage h5{
+      text-transform: capitalize;
+ }
+ .massage p{
+     opacity: 0.8;
+ }
+ #ourservice{
+     margin-top: 100px;
+ }
+ #ourservice i{
+     margin-left: 50%;
+     color: green;
+     font-size: x-large;
+ }
+ #ourservice h1{
+    font-variant: small-caps;
+ }
+ .ser img{
+     width: 150px;
+ }
+ .ser{
+     margin-top: 40px;
+ }
+ .ser h5{
+     margin-top: 20px;
+ }
+ .ser p{
+opacity: 0.8;
+ }
+ .sendsms{
+     border-radius: 20px;
+ }
+ #contact{
+     margin-top: 110px;
+ }
+ .btn-secondary{
+     background-color: black;
+ }
+ .form{
+     background-color: rgb(157, 171, 177);
+     padding: 30px;
+ }
+ .form1{
+    background-color: rgb(108, 111, 112);
+     padding-bottom: 63px;
+      padding-top: 90px;
+}
+.form1 i{
+     margin-left: 250px;
+     font-size: x-large;
+     color: rgb(242, 247, 242);
+}
+.form1 h6{
+     margin-left: 120px;
+     color: white;
+     margin-top: 30px;
+}
+.form1 h2{
+    text-align: center;
+    font-variant: small-caps;
+    color: white;
+}
+.form1 p{
+    margin-left: 120px;
+    color: white;
+    font-size: small;
+    padding-top: 20px;
+}
+#quick{
+    margin-top: 140px;
+    background-color: rgb(49, 47, 47);
+    padding-bottom: 70px;
+     
+}
+.footer h6{
+    color: white;
+   
+}
+.footer{
+    margin-top: 100px;
+}
+.footer p{
+    color: white;
+    opacity: 0.7;
+}
+.testimonieal{
+    list-style-type: none;
+    margin-left: -35px;
+}
+.testimonieal li a{
+text-decoration: none;
+color: white;
+opacity: 0.7;
+
+}
+.testimonieal li a:hover{
+    color: rgb(255, 255, 255);
+    opacity: 1;
+    }
+.testimonieal li{
+    margin-top: 10px;
+}
+
+.favicon {
+color: white;
+ margin-left: -20px;
+}
+ 
+.favicon i{
+    margin-left: 20px;
+    opacity: 0.7;
+}
+.favicon a{
+    color: white;
+}
+.hrline{
+    color: white;
+    background-color: white;
+     margin-top: 90px;
+     opacity: 0.8;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 55px;
+}
+@media (max-width: 768px){
+    .menu1{
+        margin-left: 48%;
+         
+    }
+     
+    .menu1 a{
+        color: black;
+        
+        border-bottom: 2px solid gray;
+    }
+    .always1 h1{
+        font-size: x-large;
+    }
+    #care{
+        margin-top: 0px;
+        
+    }
+    .always1{
+        margin-top: 40px;
+        font-variant: small-caps;
+   }
+   #welcome h1{
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: x-large;
+}
+.love1 h2{
+    text-align:  center;
+
+}
+.far{
+    margin-left: 0px;
+}
+.love1 p{
+    text-align: center;
+    font-size: small;
+}
+.love1 button{
+    margin-left: 0;
+}
+.some1 img{
+    width: 370px;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+  
+#fear{
+    margin-top: 10px;
+}
+.some{
+    margin-top: 60px;
+    margin-left: 0px;
+    text-align: center;
+}
+.some{
+    margin-top: 60px;
+    margin-left: 0px;
+}
+.some p{
+    font-size: small;
+    opacity: 0.9;
+}
+.live1 img{
+    width: 370px;
+    margin-top: 40px;
+    /* height: 70vh; */
+}
+.officia1{
+    background-color: rgb(134, 168, 132);
+    padding-left: 0px;
+    padding-bottom: 20px;
+}
+.officia1 h5{
+    text-align: start;
+    margin-left: 30px;
+    color: white;
+ position: relative;
+ top: 30px;
+}
+.officia1 button{
+    margin-left: 3%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.officia2{
+ background-color: rgb(52, 54, 52);
+ padding-left: 0px;
+ padding-bottom: 20px;
+}
+.officia2 h5{
+ text-align: start;
+ margin-left: 20px;
+ color: white;
+position: relative;
+top: 30px;
+}
+.officia2 button{
+ margin-left: 5%;
+ margin-top: 15px;
+ border-radius: 15px;
+}
+#lorem{
+    display: none;
+}
+.menu1{
+    margin-left: 0%;
+     
+}
+.always img{
+    width: 300px;
+    /* height: 65vh; */
+}
+.menu1 a{
+    color: black;
+    margin-left: 0px;
+}
+ #main{
+     text-align: center;
+ }
+ .menu1{
+    margin-left: 0%;
+     
+}
+.menu1 a{
+    color: black;
+    margin-left: 0px;
+}
+}
+@media(max-width:450px){
+    .always img{
+        width: 200px;
+        /* height: 65vh; */
+    }
+    .some1 img{
+        width: 200px;
+        margin-left: 0px;
+    }
+    .some1 img{
+         width: 200px;
+        margin-left: 0px;
+    }
+    .love2 img{
+         width: 200px;
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .live1 img{
+         width: 200px;
+        /* height: 70vh; */
+    }
+    .love img{
+         width: 200px;
+    }
+    .quesntion img{
+         width: 200px;
+    }
+    .form1{
+        background-color: rgb(108, 111, 112);
+         padding-bottom: 55px;
+          padding-top: 90px;
+    }
+    .form1 i{
+         margin-left: 130px;
+         font-size: x-large;
+         color: rgb(242, 247, 242);
+    }
+    .form1 h6{
+         margin-left: 40px;
+         color: white;
+         margin-top: 30px;
+    }
+    .form1 h2{
+        text-align: center;
+        font-variant: small-caps;
+        color: white;
+    }
+    .form1 p{
+        margin-left: 40px;
+        color: white;
+        font-size: small;
+        padding-top: 20px;
+    }
+    #quick{
+        margin-top: 80px;
+        background-color: rgb(49, 47, 47);
+        padding-bottom: 70px;
+         
+    }
+    .footer{
+        margin-top: 50px;
+    }
+    .hrline{
+        color: white;
+        background-color: white;
+         margin-top: 40px;
+         opacity: 0.8;
+    }
+    .copyright{
+        color: white;
+        text-align: center;
+        opacity: 0.7;
+        margin-top: 55px;
+    }
+}
+@media (min-width:768px) and (max-width:1220px){
+    
+    .massage img{
+        width: 100px;
+    }
+    .form1 i{
+        margin-left: 140px;
+         }  
+   .form1 h6{
+    margin-left: 20px;
+  }
+  .form1 p{
+   margin-left: 20px;
+  }
+  .all{
+    background-color: rgb(133, 161, 133);
+    padding-top: 50px;
+    font-size: small;
+    padding-bottom: 30px;
+    
+}
+.officia1{
+    background-color: rgb(134, 168, 132);
+    padding-left: 20px;
+}
+.officia1 button{
+    margin-left: 3%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.officia2{
+ background-color: rgb(52, 54, 52);
+ padding-left: 20px;
+}
+.officia2{
+    background-color: rgb(52, 54, 52);
+    padding-left: 20px;
+   }
+   .officia2 h5{
+    text-align: center;
+    color: white;
+ position: relative;
+ top: 30px;
+}
+.officia2 button{
+    margin-left: 3%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+ 
+}
